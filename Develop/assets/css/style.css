@@ -49,6 +49,8 @@ a {
 p {
     font-size: 16px;
 }
+/* Header/Navigation Bar Section Ends */
+
 /* Hero section, main content of page */
 .hero {
     height: 800px;
@@ -114,6 +116,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Hero/Content Ends */
 
 /* Side section containing benefits */
 .benefits {
@@ -148,6 +151,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+/* Side Section Ends */
 
 /* footer of page */
 .footer {
@@ -160,3 +164,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer Ends */
